@@ -108,7 +108,7 @@ This end-to-end Healthcare No-Show Analytics project analyzes *110,522 patient a
 Aspiring Data Analyst 
  
 
-*LinkedIn: https://www.linkedin.com/in/arpit-amale-89796a27b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+*LinkedIn: https://www.linkedin.com/in/arpit-amale-89796a27b
 
 *GitHub: https://github.com/ArpitAmale 
 
