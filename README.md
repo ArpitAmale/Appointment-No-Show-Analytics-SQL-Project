@@ -105,7 +105,12 @@ This end-to-end Healthcare No-Show Analytics project analyzes *110,522 patient a
 
 ## 👤 Author
 *Arpit*
-Aspiring Data Analyst | SQL · Power BI · Python
-* [LinkedIn](https://linkedin.com/in/your-profile)
-* [GitHub](https://github.com/your-username)
-*
+Aspiring Data Analyst 
+ 
+
+*LinkedIn: www.linkedin.com/in/ arpit-amale-89796a27b
+
+*GitHub: https://github.com/ArpitAmale 
+
+*Email: arpitamale100@gmail.com
+
